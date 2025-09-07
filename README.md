@@ -13,10 +13,6 @@ git clone https://github.com/ani369chad/Food-Prediction-Recipe-Generator.git
 ```
 Then open the cloned repository folder in VS Code
 
-```bash
-cd submissions
-```
-
 2. Create & activiate virtual environment
 
 ```bash
